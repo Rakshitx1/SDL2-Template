@@ -1,6 +1,9 @@
 # SDL2 Template Repository
 
-This repository provides a starting point for SDL2 development on Linux. It comes pre-configured with basic setup and build scripts to get you up and running quickly.
+> [!NOTE]
+> This template is specifically tailored for SDL2 development on Linux systems.
+
+This repository comes pre-configured with basic setup and build scripts to get you up and running quickly.
 
 ## Prerequisites
 
@@ -41,11 +44,3 @@ This script will build the project in Debug mode and automatically run the gener
 ```bash
 ./build.sh release
 ```
-
-### 3. Customize and Develop
-
-Feel free to modify the provided `main.cpp` and other files to suit your project needs. Add your own source files, assets, and dependencies as required.
-
-## Notes
-
-- This template is specifically tailored for SDL2 development on Linux systems.
