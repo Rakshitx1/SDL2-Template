@@ -1,4 +1,4 @@
-# SDL2 Template Repository
+# SDL2 Template
 
 > [!NOTE]
 > This template is specifically tailored for SDL2 development on Linux systems.
